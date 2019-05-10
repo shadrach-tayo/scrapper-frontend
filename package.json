@@ -1,0 +1,20 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Frontend for scraper project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next"
+  },
+  "author": "Shadrach Temitayo <shadrachtemitayo@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^1.30.1",
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "recharts": "^1.5.0"
+  }
+}
